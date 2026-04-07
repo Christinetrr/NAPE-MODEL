@@ -1,0 +1,994 @@
+[
+  {
+    "video_id": "vid1.mp4",
+    "t_start": 10.0,
+    "t_end": 34.0,
+    "intervention": "zoom_in",
+    "bbox": [
+      1364,
+      0,
+      1920,
+      821
+    ]
+  },
+  {
+    "video_id": "vid2.mp4",
+    "t_start": 13.0,
+    "t_end": 15.0,
+    "intervention": "bounding_box",
+    "bbox": [
+      1602,
+      872,
+      1920,
+      1080
+    ]
+  },
+  {
+    "video_id": "vid2.mp4",
+    "t_start": 26.0,
+    "t_end": 32.0,
+    "intervention": "bounding_box",
+    "bbox": [
+      0,
+      279,
+      161,
+      476
+    ]
+  },
+  {
+    "video_id": "vid2.mp4",
+    "t_start": 35.0,
+    "t_end": 42.0,
+    "intervention": "zoom_in",
+    "bbox": [
+      1364,
+      0,
+      1920,
+      821
+    ]
+  },
+  {
+    "video_id": "3. Create a third character.mp4",
+    "t_start": 15.0,
+    "t_end": 21.0,
+    "intervention": "bounding_box",
+    "bbox": [
+      1756,
+      897,
+      1881,
+      1072
+    ]
+  },
+  {
+    "video_id": "3. Create a third character.mp4",
+    "t_start": 32.0,
+    "t_end": 55.0,
+    "intervention": "zoom_in",
+    "bbox": [
+      117,
+      225,
+      348,
+      530
+    ]
+  },
+  {
+    "video_id": "3. Create a third character.mp4",
+    "t_start": 78.0,
+    "t_end": 92.0,
+    "intervention": "zoom_in",
+    "bbox": [
+      1548,
+      168,
+      1907,
+      634
+    ]
+  },
+  {
+    "video_id": "3. Create a third character.mp4",
+    "t_start": 0.0,
+    "t_end": 14.0,
+    "intervention": "none",
+    "bbox": null
+  },
+  {
+    "video_id": "3. Create a third character.mp4",
+    "t_start": 22.0,
+    "t_end": 31.0,
+    "intervention": "none",
+    "bbox": null
+  },
+  {
+    "video_id": "3. Create a third character.mp4",
+    "t_start": 56.0,
+    "t_end": 67.0,
+    "intervention": "none",
+    "bbox": null
+  },
+  {
+    "video_id": "4. Make a character move.mp4",
+    "t_start": 17.0,
+    "t_end": 20.0,
+    "intervention": "bounding_box",
+    "bbox": [
+      1551,
+      433,
+      1856,
+      661
+    ]
+  },
+  {
+    "video_id": "4. Make a character move.mp4",
+    "t_start": 24.0,
+    "t_end": 29.0,
+    "intervention": "bounding_box",
+    "bbox": [
+      10,
+      158,
+      70,
+      248
+    ]
+  },
+  {
+    "video_id": "4. Make a character move.mp4",
+    "t_start": 30.0,
+    "t_end": 33.0,
+    "intervention": "bounding_box",
+    "bbox": [
+      57,
+      145,
+      251,
+      228
+    ]
+  },
+  {
+    "video_id": "4. Make a character move.mp4",
+    "t_start": 37.0,
+    "t_end": 41.0,
+    "intervention": "bounding_box",
+    "bbox": [
+      530,
+      364,
+      691,
+      476
+    ]
+  },
+  {
+    "video_id": "4. Make a character move.mp4",
+    "t_start": 0.0,
+    "t_end": 17.0,
+    "intervention": "none",
+    "bbox": null
+  },
+  {
+    "video_id": "4. Make a character move.mp4",
+    "t_start": 21.0,
+    "t_end": 24.0,
+    "intervention": "none",
+    "bbox": null
+  },
+  {
+    "video_id": "4. Make a character move.mp4",
+    "t_start": 25.0,
+    "t_end": 30.0,
+    "intervention": "none",
+    "bbox": null
+  },
+  {
+    "video_id": "4. Make a character move.mp4",
+    "t_start": 42.0,
+    "t_end": 46.0,
+    "intervention": "none",
+    "bbox": null
+  },
+  {
+    "video_id": "5. Make a character move backwards.mp4",
+    "t_start": 4.0,
+    "t_end": 9.0,
+    "intervention": "bounding_box",
+    "bbox": [
+      530,
+      364,
+      691,
+      476
+    ]
+  },
+  {
+    "video_id": "5. Make a character move backwards.mp4",
+    "t_start": 12.0,
+    "t_end": 14.0,
+    "intervention": "bounding_box",
+    "bbox": [
+      26,
+      453,
+      196,
+      529
+    ]
+  },
+  {
+    "video_id": "5. Make a character move backwards.mp4",
+    "t_start": 18.0,
+    "t_end": 57.0,
+    "intervention": "zoom_in",
+    "bbox": [
+      536,
+      359,
+      860,
+      487
+    ]
+  },
+  {
+    "video_id": "6. Bring a character to the front.mp4",
+    "t_start": 0.0,
+    "t_end": 12.0,
+    "intervention": "none",
+    "bbox": null
+  },
+  {
+    "video_id": "7a. Move on spacebar.mp4",
+    "t_start": 37.0,
+    "t_end": 59.0,
+    "intervention": "zoom_in",
+    "bbox": [
+      396,
+      158,
+      724,
+      486
+    ]
+  },
+  {
+    "video_id": "7a. Move on spacebar.mp4",
+    "t_start": 61.0,
+    "t_end": 64.0,
+    "intervention": "bounding_box",
+    "bbox": [
+      1482,
+      82,
+      1550,
+      116
+    ]
+  },
+  {
+    "video_id": "8. Create an obstacle alt.mp4",
+    "t_start": 11.0,
+    "t_end": 16.0,
+    "intervention": "zoom_in",
+    "bbox": [
+      1580,
+      812,
+      1883,
+      1064
+    ]
+  },
+  {
+    "video_id": "8. Create an obstacle alt.mp4",
+    "t_start": 40.0,
+    "t_end": 43.0,
+    "intervention": "bounding_box",
+    "bbox": [
+      1616,
+      628,
+      1839,
+      853
+    ]
+  },
+  {
+    "video_id": "8. Create an obstacle.mp4",
+    "t_start": 43.0,
+    "t_end": 46.0,
+    "intervention": "bounding_box",
+    "bbox": [
+      1622,
+      303,
+      1848,
+      518
+    ]
+  },
+  {
+    "video_id": "8. Create an obstacle.mp4",
+    "t_start": 50.0,
+    "t_end": 59.0,
+    "intervention": "zoom_in",
+    "bbox": [
+      1347,
+      101,
+      1916,
+      530
+    ]
+  },
+  {
+    "video_id": "9. Collision with obstacle.mp4",
+    "t_start": 12.0,
+    "t_end": 15.0,
+    "intervention": "bounding_box",
+    "bbox": [
+      1349,
+      80,
+      1422,
+      144
+    ]
+  },
+  {
+    "video_id": "9. Collision with obstacle.mp4",
+    "t_start": 23.0,
+    "t_end": 25.0,
+    "intervention": "bounding_box",
+    "bbox": [
+      97,
+      272,
+      153,
+      334
+    ]
+  },
+  {
+    "video_id": "9. Collision with obstacle.mp4",
+    "t_start": 26.0,
+    "t_end": 28.0,
+    "intervention": "bounding_box",
+    "bbox": [
+      138,
+      359,
+      261,
+      445
+    ]
+  },
+  {
+    "video_id": "9. Collision with obstacle.mp4",
+    "t_start": 31.0,
+    "t_end": 35.0,
+    "intervention": "bounding_box",
+    "bbox": [
+      622,
+      522,
+      871,
+      687
+    ]
+  },
+  {
+    "video_id": "9. Collision with obstacle.mp4",
+    "t_start": 46.0,
+    "t_end": 49.0,
+    "intervention": "bounding_box",
+    "bbox": [
+      144,
+      142,
+      320,
+      201
+    ]
+  },
+  {
+    "video_id": "9. Collision with obstacle.mp4",
+    "t_start": 81.0,
+    "t_end": 101.0,
+    "intervention": "zoom_in",
+    "bbox": [
+      1355,
+      84,
+      1799,
+      435
+    ]
+  },
+  {
+    "video_id": "15. Add background to game.mp4",
+    "t_start": 32.0,
+    "t_end": 48.0,
+    "intervention": "zoom_in",
+    "bbox": [
+      1478,
+      61,
+      1916,
+      435
+    ]
+  },
+  {
+    "video_id": "18. Load new sound into game.mp4",
+    "t_start": 99.0,
+    "t_end": 110.0,
+    "intervention": "zoom_in",
+    "bbox": [
+      1374,
+      78,
+      1795,
+      445
+    ]
+  },
+  {
+    "video_id": "18. Load new sound into game.mp4",
+    "t_start": 0.0,
+    "t_end": 12.0,
+    "intervention": "none",
+    "bbox": null
+  },
+  {
+    "video_id": "18. Load new sound into game.mp4",
+    "t_start": 13.0,
+    "t_end": 15.0,
+    "intervention": "bounding_box",
+    "bbox": [
+      255,
+      80,
+      376,
+      144
+    ]
+  },
+  {
+    "video_id": "18. Load new sound into game.mp4",
+    "t_start": 21.0,
+    "t_end": 29.0,
+    "intervention": "zoom_in",
+    "bbox": [
+      96,
+      798,
+      295,
+      979
+    ]
+  },
+  {
+    "video_id": "18. Load new sound into game.mp4",
+    "t_start": 73.0,
+    "t_end": 76.0,
+    "intervention": "bounding_box",
+    "bbox": [
+      698,
+      430,
+      864,
+      604
+    ]
+  },
+  {
+    "video_id": "33. Using the green flag.mov",
+    "t_start": 9.0,
+    "t_end": 17.0,
+    "intervention": "zoom_in",
+    "bbox": [
+      507,
+      178,
+      654,
+      272
+    ]
+  },
+  {
+    "video_id": "34. Make code loop forever.mp4",
+    "t_start": 1.0,
+    "t_end": 9.0,
+    "intervention": "zoom_in",
+    "bbox": [
+      1486,
+      61,
+      1914,
+      439
+    ]
+  },
+  {
+    "video_id": "34. Make code loop forever.mp4",
+    "t_start": 20.0,
+    "t_end": 29.0,
+    "intervention": "zoom_in",
+    "bbox": [
+      351,
+      151,
+      604,
+      447
+    ]
+  },
+  {
+    "video_id": "34. Make code loop forever.mp4",
+    "t_start": 30.0,
+    "t_end": 44.0,
+    "intervention": "zoom_in",
+    "bbox": [
+      1472,
+      59,
+      1914,
+      432
+    ]
+  },
+  {
+    "video_id": "35. Jump on spacebar.mp4",
+    "t_start": 26.0,
+    "t_end": 35.0,
+    "intervention": "none",
+    "bbox": null
+  },
+  {
+    "video_id": "35. Jump on spacebar.mp4",
+    "t_start": 57.0,
+    "t_end": 60.0,
+    "intervention": "none",
+    "bbox": null
+  },
+  {
+    "video_id": "35. Jump on spacebar.mp4",
+    "t_start": 71.0,
+    "t_end": 73.0,
+    "intervention": "none",
+    "bbox": null
+  },
+  {
+    "video_id": "35. Jump on spacebar.mp4",
+    "t_start": 15.0,
+    "t_end": 21.0,
+    "intervention": "zoom_in",
+    "bbox": [
+      370,
+      145,
+      1073,
+      420
+    ]
+  },
+  {
+    "video_id": "35. Jump on spacebar.mp4",
+    "t_start": 23.0,
+    "t_end": 25.0,
+    "intervention": "bounding_box",
+    "bbox": [
+      0,
+      103,
+      51,
+      159
+    ]
+  },
+  {
+    "video_id": "35. Jump on spacebar.mp4",
+    "t_start": 36.0,
+    "t_end": 43.0,
+    "intervention": "bounding_box",
+    "bbox": [
+      1463,
+      63,
+      1916,
+      639
+    ]
+  },
+  {
+    "video_id": "35. Jump on spacebar.mp4",
+    "t_start": 45.0,
+    "t_end": 47.0,
+    "intervention": "bounding_box",
+    "bbox": [
+      34,
+      476,
+      163,
+      531
+    ]
+  },
+  {
+    "video_id": "35. Jump on spacebar.mp4",
+    "t_start": 49.0,
+    "t_end": 57.0,
+    "intervention": "zoom_in",
+    "bbox": [
+      420,
+      167,
+      698,
+      380
+    ]
+  },
+  {
+    "video_id": "35. Jump on spacebar.mp4",
+    "t_start": 63.0,
+    "t_end": 70.0,
+    "intervention": "zoom_in",
+    "bbox": [
+      420,
+      167,
+      698,
+      380
+    ]
+  },
+  {
+    "video_id": "35. Jump on spacebar.mp4",
+    "t_start": 95.0,
+    "t_end": 97.0,
+    "intervention": "bounding_box",
+    "bbox": [
+      3,
+      268,
+      53,
+      318
+    ]
+  },
+  {
+    "video_id": "35. Jump on spacebar.mp4",
+    "t_start": 104.0,
+    "t_end": 106.0,
+    "intervention": "bounding_box",
+    "bbox": [
+      38,
+      178,
+      168,
+      238
+    ]
+  },
+  {
+    "video_id": "35. Jump on spacebar.mp4",
+    "t_start": 113.0,
+    "t_end": 125.0,
+    "intervention": "zoom_in",
+    "bbox": [
+      1480,
+      63,
+      1912,
+      455
+    ]
+  },
+  {
+    "video_id": "36. Smooth jump on spacebar.mp4",
+    "t_start": 0.0,
+    "t_end": 2.0,
+    "intervention": "none",
+    "bbox": null
+  },
+  {
+    "video_id": "36. Smooth jump on spacebar.mp4",
+    "t_start": 5.0,
+    "t_end": 23.0,
+    "intervention": "none",
+    "bbox": null
+  },
+  {
+    "video_id": "36. Smooth jump on spacebar.mp4",
+    "t_start": 25.0,
+    "t_end": 28.0,
+    "intervention": "none",
+    "bbox": null
+  },
+  {
+    "video_id": "36. Smooth jump on spacebar.mp4",
+    "t_start": 31.0,
+    "t_end": 38.0,
+    "intervention": "none",
+    "bbox": null
+  },
+  {
+    "video_id": "36. Smooth jump on spacebar.mp4",
+    "t_start": 82.0,
+    "t_end": 93.0,
+    "intervention": "zoom_in",
+    "bbox": [
+      1474,
+      63,
+      1916,
+      455
+    ]
+  },
+  {
+    "video_id": "36. Smooth jump on spacebar.mp4",
+    "t_start": 28.0,
+    "t_end": 30.0,
+    "intervention": "bounding_box",
+    "bbox": [
+      38,
+      186,
+      167,
+      284
+    ]
+  },
+  {
+    "video_id": "36. Smooth jump on spacebar.mp4",
+    "t_start": 39.0,
+    "t_end": 63.0,
+    "intervention": "zoom_in",
+    "bbox": [
+      414,
+      159,
+      904,
+      562
+    ]
+  },
+  {
+    "video_id": "36. Smooth jump on spacebar.mp4",
+    "t_start": 94.0,
+    "t_end": 97.0,
+    "intervention": "bounding_box",
+    "bbox": [
+      443,
+      334,
+      585,
+      401
+    ]
+  },
+  {
+    "video_id": "vid1.mp4",
+    "t_start": 0.0,
+    "t_end": 9.0,
+    "intervention": "none",
+    "bbox": null
+  },
+  {
+    "video_id": "37. Delete a character.mp4",
+    "t_start": 0.0,
+    "t_end": 26.0,
+    "intervention": "none",
+    "bbox": null
+  },
+  {
+    "video_id": "37. Delete a character.mp4",
+    "t_start": 27.0,
+    "t_end": 52.0,
+    "intervention": "zoom_in",
+    "bbox": [
+      1338,
+      59,
+      1908,
+      760
+    ]
+  },
+  {
+    "video_id": "37. Delete a character.mp4",
+    "t_start": 53.0,
+    "t_end": 54.0,
+    "intervention": "none",
+    "bbox": null
+  },
+  {
+    "video_id": "40. Reset obstacle to starting position.mp4",
+    "t_start": 12.0,
+    "t_end": 14.0,
+    "intervention": "bounding_box",
+    "bbox": [
+      38,
+      309,
+      192,
+      368
+    ]
+  },
+  {
+    "video_id": "40. Reset obstacle to starting position.mp4",
+    "t_start": 24.0,
+    "t_end": 35.0,
+    "intervention": "zoom_in",
+    "bbox": [
+      627,
+      280,
+      890,
+      428
+    ]
+  },
+  {
+    "video_id": "40. Reset obstacle to starting position.mp4",
+    "t_start": 37.0,
+    "t_end": 40.0,
+    "intervention": "bounding_box",
+    "bbox": [
+      1472,
+      69,
+      1547,
+      128
+    ]
+  },
+  {
+    "video_id": "40. Reset obstacle to starting position.mp4",
+    "t_start": 41.0,
+    "t_end": 45.0,
+    "intervention": "bounding_box",
+    "bbox": [
+      673,
+      313,
+      848,
+      397
+    ]
+  },
+  {
+    "video_id": "40. Reset obstacle to starting position.mp4",
+    "t_start": 46.0,
+    "t_end": 47.0,
+    "intervention": "none",
+    "bbox": null
+  },
+  {
+    "video_id": "41. Reset obstacle at start of game.mp4",
+    "t_start": 0.0,
+    "t_end": 13.0,
+    "intervention": "none",
+    "bbox": null
+  },
+  {
+    "video_id": "41. Reset obstacle at start of game.mp4",
+    "t_start": 13.0,
+    "t_end": 20.0,
+    "intervention": "zoom_in",
+    "bbox": [
+      460,
+      192,
+      864,
+      407
+    ]
+  },
+  {
+    "video_id": "41. Reset obstacle at start of game.mp4",
+    "t_start": 21.0,
+    "t_end": 26.0,
+    "intervention": "none",
+    "bbox": null
+  },
+  {
+    "video_id": "41. Reset obstacle at start of game.mp4",
+    "t_start": 27.0,
+    "t_end": 35.0,
+    "intervention": "zoom_in",
+    "bbox": [
+      1474,
+      71,
+      1914,
+      447
+    ]
+  },
+  {
+    "video_id": "41. Reset player to starting position.mp4",
+    "t_start": 0.0,
+    "t_end": 7.0,
+    "intervention": "none",
+    "bbox": null
+  },
+  {
+    "video_id": "41. Reset player to starting position.mp4",
+    "t_start": 7.0,
+    "t_end": 9.0,
+    "intervention": "bounding_box",
+    "bbox": [
+      1560,
+      514,
+      1641,
+      606
+    ]
+  },
+  {
+    "video_id": "41. Reset player to starting position.mp4",
+    "t_start": 10.0,
+    "t_end": 16.0,
+    "intervention": "none",
+    "bbox": null
+  },
+  {
+    "video_id": "41. Reset player to starting position.mp4",
+    "t_start": 16.0,
+    "t_end": 19.0,
+    "intervention": "bounding_box",
+    "bbox": [
+      1495,
+      510,
+      1582,
+      604
+    ]
+  },
+  {
+    "video_id": "41. Reset player to starting position.mp4",
+    "t_start": 28.0,
+    "t_end": 30.0,
+    "intervention": "bounding_box",
+    "bbox": [
+      42,
+      314,
+      195,
+      372
+    ]
+  },
+  {
+    "video_id": "41. Reset player to starting position.mp4",
+    "t_start": 34.0,
+    "t_end": 35.0,
+    "intervention": "bounding_box",
+    "bbox": [
+      1662,
+      435,
+      1754,
+      480
+    ]
+  },
+  {
+    "video_id": "41. Reset player to starting position.mp4",
+    "t_start": 36.0,
+    "t_end": 37.0,
+    "intervention": "bounding_box",
+    "bbox": [
+      1776,
+      439,
+      1848,
+      480
+    ]
+  },
+  {
+    "video_id": "41. Reset obstacle at start of game.mp4",
+    "t_start": 56.0,
+    "t_end": 66.0,
+    "intervention": "zoom_in",
+    "bbox": [
+      1478,
+      61,
+      1908,
+      451
+    ]
+  },
+  {
+    "video_id": "5. Make a character move backwards.mp4",
+    "t_start": 0.0,
+    "t_end": 3.0,
+    "intervention": "none",
+    "bbox": null
+  },
+  {
+    "video_id": "7. Make code loop forever.mp4",
+    "t_start": 0.0,
+    "t_end": 13.0,
+    "intervention": "none",
+    "bbox": null
+  },
+  {
+    "video_id": "7. Make code loop forever.mp4",
+    "t_start": 14.0,
+    "t_end": 15.0,
+    "intervention": "bounding_box",
+    "bbox": [
+      42,
+      501,
+      145,
+      580
+    ]
+  },
+  {
+    "video_id": "7. Make code loop forever.mp4",
+    "t_start": 20.0,
+    "t_end": 30.0,
+    "intervention": "zoom_in",
+    "bbox": [
+      535,
+      326,
+      1013,
+      588
+    ]
+  },
+  {
+    "video_id": "7. Make code loop forever.mp4",
+    "t_start": 32.0,
+    "t_end": 45.0,
+    "intervention": "zoom_in",
+    "bbox": [
+      535,
+      326,
+      1013,
+      588
+    ]
+  },
+  {
+    "video_id": "8. Create an obstacle alt.mp4",
+    "t_start": 0.0,
+    "t_end": 11.0,
+    "intervention": "none",
+    "bbox": null
+  },
+  {
+    "video_id": "8. Create an obstacle alt.mp4",
+    "t_start": 17.0,
+    "t_end": 39.0,
+    "intervention": "none",
+    "bbox": null
+  },
+  {
+    "video_id": "8. Create an obstacle alt.mp4",
+    "t_start": 44.0,
+    "t_end": 47.0,
+    "intervention": "none",
+    "bbox": null
+  },
+  {
+    "video_id": "2. Create a second character.mp4",
+    "t_start": 0.0,
+    "t_end": 19.0,
+    "intervention": "none",
+    "bbox": null
+  },
+  {
+    "video_id": "2. Create a second character.mp4",
+    "t_start": 31.0,
+    "t_end": 39.0,
+    "intervention": "none",
+    "bbox": null
+  },
+  {
+    "video_id": "2. Create a second character.mp4",
+    "t_start": 51.0,
+    "t_end": 69.0,
+    "intervention": "none",
+    "bbox": null
+  }
+]
